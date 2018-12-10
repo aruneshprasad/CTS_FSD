@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="C:\Users\arune\OneDrive\Desktop\CTS_FSD\Eclipse_FSD_files\Hibernate\Hibernate_SQL_Mappings"/>
+		<item value="C:\Users\arune\OneDrive\Desktop\CTS_FSD\Eclipse_FSD_files\Hibernate\Hibernate_SQL"/>
+		<item value="C:\Java-FSD-CTS\Hibernate\Hibernate-Oracle"/>
+	</list>
+	<section name="WORKBENCH_SETTINGS">
+		<list key="ENABLED_TRANSFERS">
+		</list>
+	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item value="376" key="DIALOG_X_ORIGIN"/>
+		<item value="135" key="DIALOG_Y_ORIGIN"/>
+	</section>
+</section>

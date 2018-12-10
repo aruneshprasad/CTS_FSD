@@ -1,0 +1,8 @@
+package com.cts.emp.service;
+
+import org.springframework.stereotype.Service;
+
+@Service("empService")
+public class EmployeeService {
+
+}
