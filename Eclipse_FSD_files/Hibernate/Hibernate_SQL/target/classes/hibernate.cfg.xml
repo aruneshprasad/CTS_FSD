@@ -35,6 +35,7 @@
 		<!-- Mapping Resources -->
 		
 		<mapping class="com.Employee" />
+		<mapping class="com.Department" />
 
 	</session-factory>
 
